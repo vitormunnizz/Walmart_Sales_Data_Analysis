@@ -1,46 +1,60 @@
-### 📌 Descrição
+## Descrição
 
-Este projeto tem como objetivo realizar uma **análise exploratória de dados (EDA)** utilizando Python, aplicando técnicas de manipulação, visualização e extração de insights a partir de um conjunto de dados.
-O foco está na prática de ferramentas amplamente utilizadas na área de **Data Analytics e Data Science**.
+Este projeto tem como objetivo realizar uma **Análise Exploratória de Dados (EDA)** utilizando Python, com foco na compreensão do comportamento dos dados, identificação de padrões, tendências e possíveis inconsistências.
+O projeto atua como um **exercício prático de Data Analytics**, servindo como base para geração de insights e apoio à tomada de decisão orientada a dados.
 
-### 🛠️ Tecnologias Utilizadas
+## Estrutura do Projeto
+
+A análise é construída a partir das seguintes etapas e informações:
+
+* **Carregamento dos Dados**: Importação e leitura do conjunto de dados.
+* **Inspeção Inicial**: Análise da estrutura, tipos de dados e valores ausentes.
+* **Estatísticas Descritivas**: Cálculo de métricas como média, mediana, mínimo, máximo e desvio padrão.
+* **Tratamento de Dados**: Limpeza, padronização e conversão de tipos quando necessário.
+* **Análise Temporal**: Manipulação e análise de dados envolvendo datas.
+* **Visualização de Dados**: Criação de gráficos para facilitar a interpretação dos resultados.
+* **Extração de Insights**: Identificação de padrões relevantes e comportamentos dos dados.
+
+As análises são apresentadas de forma clara e visual, facilitando a interpretação e comunicação dos resultados.
+
+## Modelagem e Análise dos Dados
+
+* **Limpeza e Organização**: Tratamento de valores nulos, duplicados e inconsistentes.
+* **Transformações**: Conversões de colunas, criação de novas variáveis e ajustes para análise.
+* **Análise Exploratória (EDA)**: Avaliação do comportamento das variáveis por meio de estatísticas e gráficos.
+* **Visualizações Analíticas**: Gráficos de barras, linhas e distribuições para suporte aos insights.
+
+## Tecnologias Utilizadas
 
 * **Python 3**
-* **Pandas** – manipulação e análise de dados
-* **NumPy** – operações numéricas
-* **Matplotlib** – visualização de dados
-* **Seaborn** – visualizações estatísticas
-* **Datetime** – tratamento de datas e tempo
+* **Pandas** – Manipulação e análise de dados
+* **NumPy** – Operações numéricas
+* **Matplotlib** – Visualização de dados
+* **Seaborn** – Visualizações estatísticas
+* **Jupyter Notebook** – Ambiente de desenvolvimento e análise
 
-### 🔎 Etapas do Projeto
+## Resultados Esperados
 
-* Importação das bibliotecas necessárias
-* Carregamento e inspeção dos dados
-* Limpeza e tratamento de dados
-* Análise exploratória (EDA)
-* Criação de gráficos e visualizações
-* Geração de insights a partir dos dados
+Este projeto permite:
 
-### 📈 Exemplos de Análises Realizadas
+* **Compreensão aprofundada dos dados** por meio de análise exploratória.
+* **Identificação de padrões e tendências** relevantes.
+* **Base para tomada de decisão** orientada a dados.
+* **Desenvolvimento de habilidades práticas** em análise de dados com Python.
+* **Composição de portfólio profissional** para vagas na área de Dados.
 
-* Estatísticas descritivas
-* Análise de distribuição de dados
-* Comparações entre variáveis
-* Visualizações com gráficos de barras, linhas e distribuições
+## Autor
 
+**Vitor Hugo Muniz de Sousa Santos**
 
-### 🎯 Objetivo de Aprendizado
+Engenheiro da Computação | Especialista em Ciência de Dados
 
-Este projeto foi desenvolvido com o intuito de:
+*  [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+*  [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
 
-* Consolidar conhecimentos em **Análise de Dados**
-* Praticar **EDA na prática**
-* Desenvolver capacidade analítica e visual
-* Criar um projeto para portfólio profissional
+## Licença
 
-### 👨‍💻 Autor
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar, modificar e distribuir, mantendo os devidos créditos ao autor.
 
-**Vitor Muniz**
-Engenharia da Computação | Ciência de Dados
-Python • SQL • ETL • Power BI • Data Analytics
-
+**Se este projeto te ajudou, considere deixar uma estrela no repositório!**
