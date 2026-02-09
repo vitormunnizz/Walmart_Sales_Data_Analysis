@@ -49,12 +49,5 @@ Este projeto permite:
 
 Engenheiro da Computação | Especialista em Ciência de Dados
 
-*  [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
-*  [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
-
-## Licença
-
-Este projeto está licenciado sob a **MIT License**.
-Sinta-se livre para usar, modificar e distribuir, mantendo os devidos créditos ao autor.
-
-**Se este projeto te ajudou, considere deixar uma estrela no repositório!**
+*  [vitormunnnizzz@gmail.com](mailto:vitormunnnizzz@gmail.com)
+*  [www.linkedin.com/in/vitormunnnizzz](https://www.linkedin.com/in/vitormunnnizzz)
